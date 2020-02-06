@@ -1,0 +1,19 @@
+{
+  "name": "glocation-web",
+  "version": "1.0.0",
+  "description": "GLocation Web Site",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "web",
+    "site",
+    "glocation"
+  ],
+  "author": "waespitiam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
